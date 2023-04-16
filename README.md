@@ -14,7 +14,7 @@ Level: Beginner
 
 <br>
 
-Kelas ini ditujukan untuk individu yang ingin melangkah menjadi seorang Back-End Developer dengan standar kompetensi internasional milik AWS. Di akhir kelas, siswa dapat membuat RESTful API sederhana secara mandiri untuk mendukung fungsionalitas suatu aplikasi.
+This class is intended for individuals who want to step up to become a Back-End Developer with AWS's international competency standards. At the end of the class, students can build a simple RESTful API independently to support the functionality of an application.
 
 Study material:
 
