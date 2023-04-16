@@ -1,12 +1,12 @@
 # 📚 Bookshelf API
 
-Submission Bookshelf API - Kelas Belajar Membuat Aplikasi Back-End untuk Pemula
+Submission Bookshelf API - Learning Class to Create Back-End Applications for Beginners
 
-## 🚀 Deskripsi Kelas
+## 🚀 Class Description
 
-Belajar Membuat Aplikasi Back-End untuk Pemula <br>
-Disusun oleh: Dicoding Indonesia <br>
-Level: Pemula
+Learn to Create Back-End Applications for Beginners <br>
+Compiled by: Dicoding Indonesia <br>
+Level: Beginner
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95717485/225231893-e59de44d-0d3e-4e79-971b-a4d494565a74.png" alt="Dicoding AWS">
@@ -16,19 +16,19 @@ Level: Pemula
 
 Kelas ini ditujukan untuk individu yang ingin melangkah menjadi seorang Back-End Developer dengan standar kompetensi internasional milik AWS. Di akhir kelas, siswa dapat membuat RESTful API sederhana secara mandiri untuk mendukung fungsionalitas suatu aplikasi.
 
-Materi yang dipelajari:
+Study material:
 
-- **Pengenalan ke Back-End** : Menjelaskan peran front-end dan back-end, bagaimana cara client dan server berkomunikasi melalui protokol HTTP, dan arsitektur RESTFul API dalam membangun web service. (3 Jam)
-- **Dasar-Dasar Node.js** : Mengenal Node.js serta mengetahui dasar dari Node.js seperti global dan process object, modularization, Node Package Manager (NPM), eventing, filesystem, dan teknik stream. (8 Jam)
-- **Membangun Web Service menggunakan Node.js** : Membangun Web Service menggunakan Node.js secara native dan melalui framework Hapi, membangun RESTFul API sederhana. (10 Jam)
-- **Deploy Web Service** : Mengenal dan menggunakan Amazon EC2, mengoperasikan Amazon EC2 melalui SSH, menjalankan RESTFul API di Amazon EC2. (5 Jam)
-- **Mengonsumsi dan Menguji RESTful API menggunakan Postman** : Memasang Postman. Mengonsumsi RESTful API untuk tujuan pengujian dan menuliskan skenario uji otomatis menggunakan Postman. (5 Jam)
+- **Introduction to Back-End** : Explains the roles of front-end and back-end, how clients and servers communicate via HTTP protocol, and RESTFul API architecture in building web services. (3 hours)
+- **Node.js Basics** : Get to know Node.js and know the basics of Node.js such as global and process objects, modularization, Node Package Manager (NPM), eventing, filesystems, and stream techniques. (8 hours)
+- **Build Web Service using Node.js** : Build Web Service using Node.js natively and through the Hapi framework, build a simple RESTFul API. (10 hours)
+- **Deploy Web Service** : Know and use Amazon EC2, operate Amazon EC2 via SSH, run RESTFul API on Amazon EC2. (5 Hours)
+- **Consuming and Testing RESTful API using Postman** : Installing Postman. Consuming a RESTful API for testing purposes and writing automated test scenarios using Postman. (5 Hours)
 
-Evaluasi pembelajaran:
+Learning evaluation:
 
-- **Submission** : Proyek akhir berupa praktik siswa berbentuk Bookshelf API berupa membuat Back-End dari aplikasi catatan yang memiliki fungsi Create, Read, Update, dan Delete.
+- **Submission** : Final project in the form of student practice in the form of a Bookshelf API in the form of creating a Back-End of a notes application that has Create, Read, Update, and Delete functions.
 
-Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah **45** jam.
+The total hours needed to complete this class, from class preparation to learning evaluation, is **45** hours.
 
 [^1]: [Show Credential](https://www.dicoding.com/certificates/4EXGN6VM9ZRL)
 
